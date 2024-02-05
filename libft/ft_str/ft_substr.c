@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 08:57:14 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:48:31 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/19 00:18:38 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 static void	check_params(char const *s, unsigned int *start, size_t *len)
 {

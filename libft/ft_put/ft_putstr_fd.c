@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 08:54:12 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:47:09 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/23 09:58:03 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 void	ft_putstr_fd(char *s, int fd)
 {

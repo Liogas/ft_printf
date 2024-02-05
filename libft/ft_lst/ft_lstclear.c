@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 09:08:04 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:44:58 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/19 00:15:55 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 void	ft_lstclear(t_list **lst, void (*del)(void *))
 {

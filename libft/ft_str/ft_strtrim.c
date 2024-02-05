@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 08:53:45 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:48:27 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/19 00:18:33 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 static int	ft_istrim(char const c, char const *t)
 {

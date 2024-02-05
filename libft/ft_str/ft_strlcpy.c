@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/07 09:04:10 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:47:59 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/19 00:18:05 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 size_t	ft_strlcpy(char *dst, const char *src, size_t size)
 {

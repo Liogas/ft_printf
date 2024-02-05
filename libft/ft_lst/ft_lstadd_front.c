@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 08:55:57 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:44:51 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/19 00:15:51 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 void	ft_lstadd_front(t_list **lst, t_list *new)
 {

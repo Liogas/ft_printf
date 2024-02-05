@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 10:40:57 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:47:35 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/19 00:17:30 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 static int	ft_count_words(char const *s, char c)
 {

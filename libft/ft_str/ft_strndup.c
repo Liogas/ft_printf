@@ -6,11 +6,11 @@
 /*   By: glions <glions@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/21 18:43:32 by glions            #+#    #+#             */
-/*   Updated: 2024/01/19 23:48:18 by glions           ###   ########.fr       */
+/*   Updated: 2023/11/22 14:02:46 by glions           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "../libft.h"
 
 char	*ft_strndup(char *src, int n)
 {
